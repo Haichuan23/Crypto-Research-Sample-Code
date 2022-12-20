@@ -27,7 +27,7 @@ Once the paper/blogpost is published, I will attach the link of our work into th
 not be shared with the public in this repo. Also, I have only kept the scaffold of the code for my own reference.
 
 (Special thank to other RAs in my research group. I have collaborated with them a lot and sometimes directly work on 
-their code base.
+their code base.)
 
 
 
