@@ -5,6 +5,8 @@ During this period, I have extensive experience working with data cleaning, data
 plotting stylized facts, and running regressions. I have collected the code that I wrote and established
 this code library so I can directly use my code for similar tasks in the future.
 
+The code and the research shared below are not financial advices.
+
 I have worked on three different projects under the guidance of Professor Anthony Zhang:
 1) Stablecoin Project:
 
